@@ -1,0 +1,8 @@
+const firstName = "Rani";
+const lastName = "Garad";
+
+
+const fullName = firstName + " " + lastName;
+
+console.log(fullName);
+
